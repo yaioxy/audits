@@ -22,4 +22,4 @@ This repo documents my participation in public smart contract audit contests.
 | Crestal Network | Sherlock | 1 H | Agent registration | [📃 View Report ](https://audits.sherlock.xyz/contests/755/report) |
 | Kinetiq | Code4rena | 1 M | LST on Hyperliquid | [📃 Not Public Yet ]() |
 | Mighty Finance | Cantina | 1H/1M | Lending, Staking, Amm Integration | [📃 View Report ](https://cantina.xyz/code/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef/findings?status=confirmed&severity=high,medium) |
-| LEND | Sherlock | On Progress | Lending, Cross-chain | [📃 Not Public Yet ]() |
+| LEND | Sherlock | 4 H | Lending, Cross-chain | [📃 View Report ](https://audits.sherlock.xyz/contests/908/report) |
