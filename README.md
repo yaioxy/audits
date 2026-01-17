@@ -24,3 +24,6 @@ This repo documents my participation in public smart contract audit contests.
 | Mighty Finance | Cantina | 1H/1M | Lending, Staking, Amm Integration | [📃 View Report ](https://cantina.xyz/code/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef/findings?status=confirmed&severity=high,medium) |
 | LEND | Sherlock | 4 H | Lending, Cross-chain | [📃 View Report ](https://audits.sherlock.xyz/contests/908/report) |
 | USG - Tangent | Sherlock | 1H/1M | CDP | [📃 View Report ](https://audits.sherlock.xyz/contests/1073/report) |
+| Rain | Haken Proof | 2H | Prediction Market | [📃 View Report ](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest?tab=reports) |
+| Alignerz | Dual Guard | 6H/2M | Vesting, NFT | [📃 View Report ](https://github.com/dualguard/2025-11-judging-alignerz/tree/main/results/valid) |
+
