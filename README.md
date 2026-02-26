@@ -26,4 +26,5 @@ This repo documents my participation in public smart contract audit contests.
 | USG - Tangent | Sherlock | 1H/1M | CDP | [📃 View Report ](https://audits.sherlock.xyz/contests/1073/report) |
 | Rain | Haken Proof | 2H | Prediction Market | [📃 View Report ](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest?tab=reports) |
 | Alignerz | Dual Guard | 6H/2M | Vesting, NFT | [📃 View Report ](https://github.com/dualguard/2025-11-judging-alignerz/tree/main/results/valid) |
+| Monolith Stablecoin Factory | Sherlock | 1M | CDP | [📑]([https://audits.sherlock.xyz/contests/1212]) |
 
